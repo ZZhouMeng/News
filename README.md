@@ -1,6 +1,7 @@
 # News
 Internet开发期末大作业——新闻系统
 数据库用的是SQL Server
+
 1、新闻系统登录界面
 新闻登录可以选择是管理员还是普通用户登录，Login.jsp页面填写表单，数据传递到CheckLogin.jsp页面，CheckLogin.jsp页面根据表单中的用户名查询数据库，判断用户数据是否填写正确，判定用户能否登陆成功，未登陆成功则跳转回登录界面重新填写登录信息。
 ![Image text](https://raw.githubusercontent.com/ZZhouMeng/News/master/%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%E5%9B%BE%E7%89%87/%E6%96%B0%E9%97%BB%E7%B3%BB%E7%BB%9F%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
